@@ -1,0 +1,8 @@
+
+*.pyc
+*events.out*
+*.tsv
+*.pbtxt
+*Cora*
+*checkpoint*
+
